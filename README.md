@@ -1,22 +1,22 @@
-# 📊 Sales Dashboard - Power BI
+# Sales Dashboard - Power BI
 
-## 📌 Project Overview
+## Project Overview
 This Power BI Sales Dashboard provides an interactive analysis of sales performance, profit trends, customer behavior, and payment modes. The dashboard helps businesses monitor key performance indicators (KPIs) and make data-driven decisions.
 
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI
 - Microsoft Excel
 
 
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![Sales Dashboard](dashboard.png)
 
 
 
-## 🚀 Key Features
+## Key Features
 - KPI Cards for Total Sales, Profit, and Quantity
 - Quarter-wise Sales Filter
 - Customer Sales Analysis
@@ -27,22 +27,22 @@ This Power BI Sales Dashboard provides an interactive analysis of sales performa
 
 
 
-## 📈 Key Insights
-- 💰 Total Sales: 438K
-- 📊 Total Profit: 37K
-- 📦 Total Quantity Sold: 5615
-- 🏆 Highest Profit Category: Printers
-- 📅 Best Performing Month: November
+## Key Insights
+- Total Sales: 438K
+- Total Profit: 37K
+- Total Quantity Sold: 5615
+- Highest Profit Category: Printers
+- Best Performing Month: November
 
 
 
-## 📂 Dataset Files
+## Dataset Files
 - Orders.csv
 - Details.csv
 
 
 
-## 🎯 Business Benefits
+## Business Benefits
 This dashboard helps in:
 - Tracking sales performance
 - Identifying profitable categories
@@ -52,7 +52,7 @@ This dashboard helps in:
 
 
 
-## 🔗 Project Files
+## Project Files
 - Power BI Dashboard (.pbix)
 - Dataset Files (.csv)
 - Dashboard Screenshot (.png)
